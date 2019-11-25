@@ -52,7 +52,7 @@ Orijinal sayfayı görmek istiyorsan [buraya](https://help.ubuntu.com/stable/ubu
 * ✲ Ctrl tuşuna da basılırsa `$HOME/Pictures` ya da `HOME/Videos` dizinleri yerine panoya kayıt edilir.
 
 {% hint style="info" %}
-🧙‍♂️ Ekran görüntüsü olarak [flameshot](../faydali-uygulamalar.md), ekran kayıt edicisi olarak [simplescreenrecoder ](../faydali-uygulamalar.md)uygulamaları önerilir.
+🧙‍♂️ Ekran görüntüsü olarak [flameshot](../uygulamalar.md), ekran kayıt edicisi olarak [simplescreenrecoder ](../uygulamalar.md)uygulamaları önerilir.
 {% endhint %}
 
 ## 💎 Özel karakter Oluşturma \(Compose Key\)
