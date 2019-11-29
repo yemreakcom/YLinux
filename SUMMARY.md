@@ -15,6 +15,7 @@
   * [👷‍♂️ Uygulama Kurulumları](terminal/kurulumlar.md)
   * [⏬ Terminal İndiricileri](terminal/indiriciler.md)
   * [✨ Diğer Terminal Notları](terminal/diger.md)
+  * [🎨 Terminal Teması](terminal/tema.md)
 * [👨‍🔧 Yapılandırma Ayarları](yapilandirma.md)
 * [👨‍💻 Geliştirici Notları](gelistirici/README.md)
   * [👨‍💼 Pencere Yönetimi](gelistirici/pencere-yonetimi.md)
@@ -40,3 +41,4 @@
 * [📕 Git Notları](https://book.git.yemreak.com/)
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
+
