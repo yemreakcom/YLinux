@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐧 YLinux](README.md)
+* [🐧 Linux Notlarım](README.md)
 * [🌟 Faydalı Uygulamalar](uygulamalar.md)
 * [🔰 Linux'a Giriş](giris.md)
 * [💖 Kısayollar](kisayollar/README.md)

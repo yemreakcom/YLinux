@@ -2,7 +2,7 @@
 description: 'Açık kaynak kodlu, kernel erişimi olan geliştirici dostu işletim sistemi'
 ---
 
-# 🐧 YLinux
+# 🐧 Linux Notlarım
 
 ## 🙋‍♂️ Hoş Geldin
 
