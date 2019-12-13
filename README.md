@@ -1,5 +1,7 @@
 ---
-description: 'Açık kaynak kodlu, kernel erişimi olan geliştirici dostu işletim sistemi'
+description: >-
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın linux, linux scripting ve linux ile
+  programlama notları
 ---
 
 # 🐧 Linux Notlarım
