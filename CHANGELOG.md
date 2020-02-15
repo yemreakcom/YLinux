@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 15/02/2020 - 18:05:32 - [👨‍🔧](https://github.com/YEmreAk/YLinux/commit/e3f463ed0520a82330c1dabe1616749bcb17c7b9?diff=split) ~ Yunus Emre
+- 15/02/2020 - 18:04:48 - [✨](https://github.com/YEmreAk/YLinux/commit/8138b1c5e32f655aee80204ea3ab4c02fbb9894e?diff=split) ~ Yunus Emre
 - 13/12/2019 - 14:54:54 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YLinux/commit/34e33ef356469809f77ec2ff6b39066cf98b9377?diff=split) ~ Yunus Emre
 - 11/12/2019 - 21:43:37 - [GitBook: [master] 2 pages modified](https://github.com/YEmreAk/YLinux/commit/e4f632f47131f2bc9f6810669825e03979e997f8?diff=split) ~ Yunus Emre
 - 11/12/2019 - 15:26:37 - [©️ Lisans yenilendi](https://github.com/YEmreAk/YLinux/commit/7fcd1d05a5a4493743d85008c3af0a1d064526ae?diff=split) ~ Yunus Emre
