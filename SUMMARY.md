@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [🐧 Linux Notlarım](README.md)
-* [👀 Neler Değişti](CHANGELOG.md)
+* [👀 Neler Değişti](https://github.com/YEmreAk/YLinux/blob/master/CHANGELOG.md)
 * [🌟 Faydalı Uygulamalar](uygulamalar.md)
 * [🔰 Linux'a Giriş](giris.md)
 * [💖 Kısayollar](kisayollar/README.md)
